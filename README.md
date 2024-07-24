@@ -79,5 +79,5 @@ Encrypted code: 751fa0cfa59314ba9a39752b36611bdb
 
 ## 许可证
 
-此项目遵循 MIT 许可证。详情请参阅 LICENSE 文件。
+此项目遵循 Apache License 2.0 许可证。详情请参阅 LICENSE 文件。
  
